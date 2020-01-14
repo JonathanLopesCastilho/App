@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppCadastro</string>
+    <string name="action_settings">Settings</string>
+    <string name="salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome_obrigatorio">O Nome é de preenchimento obrigatório!</string>
+    <string name="razao_obrigatorio">A Razão Social é de preenchimento obrigatório!</string>
+    <string name="endereco_obrigatorio">O Endereço é de preenchimento obrigatório!</string>
+    <string name="bairro_obrigatorio">O Bairro é de preenchimento obrigatório!</string>
+    <string name="cep_obrigatorio">O CEP é de preenchimento obrigatório!</string>
+    <string name="cidade_obrigatorio">A Cidade é de preenchimento obrigatório!</string>
+    <string name="telefone_obrigatorio">O Telefone é de preenchimento obrigatório!</string>
+    <string name="cnpj_obrigatorio">O CNPJ é de preenchimento obrigatório!</string>
+    <string name="ie_obrigatorio">O IE é de preenchimento obrigatório!</string>
+    <string name="registro_salvo_sucesso">Registro salvo com sucesso!</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="empresa_obrigatorio">A Empresa é de preenchimento obrigatório!</string>
+    <string name="descricao_obrigatorio">A Descrição é de preenchimento obrigatório!</string>
+    <string name="grupo_obrigatorio">O Grupo é de preenchimento obrigatório!</string>
+    <string name="subgrupo_obrigatorio">O SubGrupo é de preenchimento obrigatório!</string>
+    <string name="situacao_obrigatorio">A Situação é de preenchimento obrigatório!</string>
+
+
+</resources>
